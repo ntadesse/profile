@@ -1,4 +1,4 @@
-# profile.github.io
+# profile
 ## Certification
 - Microsoft Certified: Azure Fundamentals
   [Verify] (https://www.credly.com/badges/bcb1823f-432c-451c-8037-d573e5cb2e68)
