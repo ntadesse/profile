@@ -10,7 +10,7 @@
 - Udemy Certificate of Completion: Complete Cisco CCNA 200-301 Course <br> [Verify] (https://ude.my/UC-9b6aaa24-cbcc-4a7b-8490-cd2523109373)
 
   ## Achived Portfolio Projects 
-- ### Host a WordPress Website using Apache Web Server and MySQL Database
+- ### Host a WordPress Website using Apache Web Server and MySQL Database and Python Flask/Django application using Nginx and Gunicorn/uWSGI
 [Hosting Website] (https://ntadesse.github.io/profile/projects/arch/Project1.html)
 - ### Deploying a Java Stack on Onpremise and AWS EC2 instances
 [Deploying Java Stack] (https://ntadesse.github.io/profile/projects/arch/Project2.html)
