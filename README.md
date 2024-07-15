@@ -36,5 +36,5 @@
 [Micro-service Application] (https://ntadesse.github.io/profile/projects/arch/Project8.html)
 - ### Deployment of Java Stack Multi-tier Application Using Kubernetes Cluster on AWS
 [Kubernetes Cluster] (https://ntadesse.github.io/profile/projects/arch/Project9.html)
-- ### Build GitOps Using GitHub Actions on GitHub
+- ### Build GitOps Workflow Using GitHub Actions on GitHub
 [GitOps] (https://ntadesse.github.io/profile/projects/arch/Project11.html)
