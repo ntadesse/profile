@@ -1,7 +1,6 @@
 # profile
 ## Certification
-- Microsoft Certified: Azure Fundamentals
-  [Verify] (https://www.credly.com/badges/bcb1823f-432c-451c-8037-d573e5cb2e68)
+- Microsoft Certified: Azure Fundamentals <br> [Verify] (https://www.credly.com/badges/bcb1823f-432c-451c-8037-d573e5cb2e68)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
   [Verify] (https://www.credly.com/badges/a917ea96-b531-48b2-8197-946790bc762f)
 - KodeKloud Certificate of Completion: RedHat System Administrator Course
