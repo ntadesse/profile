@@ -19,22 +19,22 @@
 
   ## Achived Portfolio Projects 
 - ### Host a WordPress Website using Apache Web Server and MySQL Database
-[Hosting Website] (https://profile.github.io/assets/img/Project1.html)
+[Hosting Website] (https://profile.github.io/projects/arch/Project1.html)
 - ### Deploying a Java Stack on Onpremise and AWS EC2 instances
-[Deploying Java Stack] (https://profile.github.io/assets/img/Project2.html)
+[Deploying Java Stack] (https://profile.github.io/projects/arch/Project2.html)
 - ### Refactoring and Lift Shift of Application to AWS PaaS Services
-[Refactoring and Lift Shift] (https://profile.github.io/assets/img/Project4.html)
+[Refactoring and Lift Shift] (https://profile.github.io/projects/arch/Project4.html)
 - ### Build CI/CD Pipeline Using Jenkins for Multi-tier Java Stack Application
-[CI/CD Pipeline Using Jenkins] (https://profile.github.io/assets/img/Project5.1.html)
+[CI/CD Pipeline Using Jenkins] (https://profile.github.io/projects/arch/Project5.1.html)
 - ### Containerization and Deployment of Java Stack Multi-tier Application Using Docker and DockerHub
-[Containerization Using Docker] (https://profile.github.io/assets/img/Project7.html)
+[Containerization Using Docker] (https://profile.github.io/projects/arch/Project7.html)
 - ### Build CI/CD Pipeline Using Jenkins for Dockerized Multi-tier Java Stack Application and Deploying on AWS ECR and ECS
-[CI/CD Pipeline for Dockerized Application] (https://profile.github.io/assets/img/Project5.2.html)
+[CI/CD Pipeline for Dockerized Application] (https://profile.github.io/projects/arch/Project5.2.html)
 - ### Build CI/CD Pipeline Using AWS Code Pipeline for Dockerized Multi-tier Java Stack Application and Deploying on AWS ECR and ECS
-[CI/CD Pipeline Using AWS Code Pipeline] (https://profile.github.io/assets/img/Project6.html)
+[CI/CD Pipeline Using AWS Code Pipeline] (https://profile.github.io/projects/arch/Project6.html)
 - ### Deployment of a Microservice Application by Contenerizing in Docker
-[Micro-service Application] (https://profile.github.io/assets/img/Project8.html)
+[Micro-service Application] (https://profile.github.io/projects/arch/Project8.html)
 - ### Deployment of Java Stack Multi-tier Application Using Kubernetes Cluster on AWS
-[Kubernetes Cluster] (https://profile.github.io/assets/img/Project9.html)
+[Kubernetes Cluster] (https://profile.github.io/projects/arch/Project9.html)
 - ### Build GitOps Using GitHub Actions on GitHub
-[GitOps] (https://profile.github.io/assets/img/Project11.html)
+[GitOps] (https://profile.github.io/projects/arch/Project11.html)
