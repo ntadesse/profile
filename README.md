@@ -1,5 +1,5 @@
 # profile.github.io
-##Certification
+## Certification
 - Microsoft Certified: Azure Fundamentals
   [Verify] (https://www.credly.com/badges/bcb1823f-432c-451c-8037-d573e5cb2e68)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals
@@ -17,7 +17,7 @@
 - Udemy Certificate of Completion: Complete Cisco CCNA 200-301 Course
   [Verify] (https://ude.my/UC-9b6aaa24-cbcc-4a7b-8490-cd2523109373)
 
-  ##Achived Portfolio Projects 
+  ## Achived Portfolio Projects 
 - ### Host a WordPress Website using Apache Web Server and MySQL Database
 [Hosting Website] (https://profile.github.io/assets/img/Project1.html)
 - ### Deploying a Java Stack on Onpremise and AWS EC2 instances
