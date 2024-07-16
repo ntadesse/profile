@@ -30,3 +30,5 @@
 [Kubernetes Cluster] (https://ntadesse.github.io/profile/projects/arch/Project9.html)
 - ### Build GitOps Workflow Using GitHub Actions on GitHub
 [GitOps] (https://ntadesse.github.io/profile/projects/arch/Project11.html)
+- ### Log Monitoring using Spulk and Security Defense in Wazuh
+[Log and SIEM] (https://ntadesse.github.io/profile/projects/arch/spunlk and wazuh.html)
