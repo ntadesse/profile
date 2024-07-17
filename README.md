@@ -31,4 +31,4 @@
 - ### Build GitOps Workflow Using GitHub Actions on GitHub
 [GitOps] (https://ntadesse.github.io/profile/projects/arch/Project11.html)
 - ### Log Monitoring using Spulk and Security Defense in Wazuh
-[Log and SIEM] (https://ntadesse.github.io/profile/projects/arch/spulnk/splunk.html)
+[Log and SIEM] (https://ntadesse.github.io/profile/projects/arch/splunk.html)
