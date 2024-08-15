@@ -14,6 +14,7 @@
 [Hosting Website] (https://ntadesse.github.io/profile/projects/arch/Project1.html)
 - ### Deploying a Java Stack on Onpremise and AWS EC2 instances
 [Deploying Java Stack] (https://ntadesse.github.io/profile/projects/arch/Project2.html)
+[Deploying Java Stack] (https://ntadesse.github.io/profile/projects/arch/Project3.html)
 - ### Refactoring and Lift Shift of Application to AWS PaaS Services
 [Refactoring and Lift Shift] (https://ntadesse.github.io/profile/projects/arch/Project4.html)
 - ### Build CI/CD Pipeline Using Jenkins for Multi-tier Java Stack Application
