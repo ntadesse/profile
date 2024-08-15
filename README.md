@@ -32,3 +32,5 @@
 [GitOps] (https://ntadesse.github.io/profile/projects/arch/Project11.html)
 - ### Log Monitoring using Spulk and Security Defense in Wazuh
 [Log and SIEM] (https://ntadesse.github.io/profile/projects/arch/splunk.html)
+- ### 3 Tier Campus Network with IP Phone Configuration
+[Campus Network] (https://ntadesse.github.io/profile/projects/arch/campus_network.html)
