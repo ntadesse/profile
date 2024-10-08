@@ -2,7 +2,6 @@
 ## Certification
 - Microsoft Certified: Azure Fundamentals <br> [Verify] (https://www.credly.com/badges/bcb1823f-432c-451c-8037-d573e5cb2e68)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals <br>[Verify] (https://www.credly.com/badges/a917ea96-b531-48b2-8197-946790bc762f)
-- KodeKloud Certificate of Completion: RedHat System Administrator Course
 - Udemy Certificate of Completion: VMware vSphere Mastery: Build and Manage Virtualized Infrastructure Course <be> [Verify] (https://udemy.com/certificate/UC-cc747b1b-ea9a-4e7d-9cb9-efe3c38ff681/) 
 - Udemy Certificate of Completion: DevOps Beginners to Advanced with Projects – 2023 <br> [Verify] (https://udemy.com/certificate/UC-cdc893f6-5492-4718-8805-f23d1097d63f/)
 - Udemy Certificate of Completion: CompTIA Linux+  (XK0-005) Complete Course and Exams The Ultimate Hands-on Courses <br> [Verify] (https://ude.my/UC-461cd3bf-b5db-48f3-9fa2-e93aebfec199)
