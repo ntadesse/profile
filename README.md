@@ -10,8 +10,6 @@
 - Udemy Certificate of Completion: Complete Cisco CCNA 200-301 Course <br> [Verify] (https://ude.my/UC-9b6aaa24-cbcc-4a7b-8490-cd2523109373)
 
   ## Achieved Portfolio Projects
-- ### Host a WordPress Website using Apache Web Server and MySQL Database and Python Flask/Django application using Nginx and Gunicorn/uWSGI
-[Hosting Website] (https://ntadesse.github.io/profile/projects/arch/Project1.html)
 - ### Deploying a Java Stack on Onpremise and AWS Cloud
 [Lift and Shift Java Stack] (https://ntadesse.github.io/profile/projects/arch/Lift_and_Shift_of_Java_Full_Stack_Web_Application_to_AWS_Cloud.html)
 - ### Refactoring Application to AWS PaaS and SaaS Services
@@ -32,6 +30,8 @@
 [GitOps] (https://ntadesse.github.io/profile/projects/arch/GitHub_Actions_CICD_for_Java_Full_Stack_Web_Application.html)
 - ### Provisioning Infrastructure on ASW for Java Full Stack Application using Ansible
 [GitOps] (https://ntadesse.github.io/profile/projects/arch/Provisioning_Java_WebApplication_on_AWS_Cloud_Ansible.html)
+- ### Host LAMP Stack and Python Flask/Django Applications
+[Hosting Website] (https://ntadesse.github.io/profile/projects/arch/Deploye_LAMP_Stack_&_Python_Apps.html)
 - ### Log Monitoring using Spulk and Security Defense in Wazuh
 [Log and SIEM] (https://ntadesse.github.io/profile/projects/arch/splunk.html)
 - ### 3 Tier Campus Network with IP Phone Configuration
