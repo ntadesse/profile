@@ -19,7 +19,7 @@
 - ### Build CI/CD Pipeline using Jenkins
 [CI/CD Pipeline using Jenkins] (https://ntadesse.github.io/profile/projects/arch/Build_Staging_and_Production_CICD_Pipeline_Jenkins.html)
 - ### Build CI/CD Pipeline using AWS CodePipeline
-[CI/CD Pipeline using AWS CodePipeline] (https://ntadesse.github.io/profile/projects/arch/Build_CICD_Pipeline_AWS_CodePipline_and_Sonar Cloud.html)
+[CI/CD Pipeline using AWS CodePipeline] (https://ntadesse.github.io/profile/projects/arch/Build_CICD_Pipeline_AWS_CodePipline_and_Sonar_Cloud.html)
 - ### Build CI/CD Pipeline using Jenkins with Ansible
 [CI/CD Pipeline using Jenkins with Ansible] (https://ntadesse.github.io/profile/projects/arch/Build_Staging_and_Production_CICD_Pipeline_Jenkins_with_Ansible.html)
 - ### Containerization Multi-tier and Micro-service Application Using Docker
