@@ -9,28 +9,29 @@
 - Udemy Certificate of Completion: Windows Server 2019 Administration Course <br> [Verify] (https://ude.my/UC-649bb993-1974-4fe1-9914-a81257b88c69)
 - Udemy Certificate of Completion: Complete Cisco CCNA 200-301 Course <br> [Verify] (https://ude.my/UC-9b6aaa24-cbcc-4a7b-8490-cd2523109373)
 
-  ## Achived Portfolio Projects 
+  ## Achieved Portfolio Projects
 - ### Host a WordPress Website using Apache Web Server and MySQL Database and Python Flask/Django application using Nginx and Gunicorn/uWSGI
 [Hosting Website] (https://ntadesse.github.io/profile/projects/arch/Project1.html)
-- ### Deploying a Java Stack on Onpremise and AWS EC2 instances
-[Deploying Java Stack] (https://ntadesse.github.io/profile/projects/arch/Project2.html)
-[Deploying Java Stack] (https://ntadesse.github.io/profile/projects/arch/Project3.html)
-- ### Refactoring and Lift Shift of Application to AWS PaaS Services
-[Refactoring and Lift Shift] (https://ntadesse.github.io/profile/projects/arch/Project4.html)
-- ### Build CI/CD Pipeline Using Jenkins for Multi-tier Java Stack Application
-[CI/CD Pipeline Using Jenkins] (https://ntadesse.github.io/profile/projects/arch/Project5.1.html)
-- ### Containerization and Deployment of Java Stack Multi-tier Application Using Docker and DockerHub
-[Containerization Using Docker] (https://ntadesse.github.io/profile/projects/arch/Project7.html)
-- ### Build CI/CD Pipeline Using Jenkins for Dockerized Multi-tier Java Stack Application and Deploying on AWS ECR and ECS
-[CI/CD Pipeline for Dockerized Application] (https://ntadesse.github.io/profile/projects/arch/Project5.2.html)
-- ### Build CI/CD Pipeline Using AWS Code Pipeline for Dockerized Multi-tier Java Stack Application and Deploying on AWS ECR and ECS
-[CI/CD Pipeline Using AWS Code Pipeline] (https://ntadesse.github.io/profile/projects/arch/Project6.html)
-- ### Deployment of a Microservice Application by Contenerizing in Docker
-[Micro-service Application] (https://ntadesse.github.io/profile/projects/arch/Project8.html)
+- ### Deploying a Java Stack on Onpremise and AWS Cloud
+[Lift and Shift Java Stack] (https://ntadesse.github.io/profile/projects/arch/Lift_and_Shift_of_Java_Full_Stack_Web_Application_to_AWS_Cloud.html)
+- ### Refactoring Application to AWS PaaS and SaaS Services
+[Refactoring Java Stack] (https://ntadesse.github.io/profile/projects/arch/Refactoring_Java_Full_Stack_Web_Application_in_AWS_Cloud_Managed_Services.html)
+- ### Build CI/CD Pipeline using Jenkins
+[CI/CD Pipeline using Jenkins] (https://ntadesse.github.io/profile/projects/arch/Build_Staging_and_Production_CICD_Pipeline_Jenkins.html)
+- ### Build CI/CD Pipeline using AWS CodePipeline
+[CI/CD Pipeline using AWS CodePipeline] (https://ntadesse.github.io/profile/projects/arch/Build_CICD_Pipeline_AWS_CodePipline_and_Sonar Cloud.html)
+- ### Build CI/CD Pipeline using Jenkins with Ansible
+[CI/CD Pipeline using Jenkins with Ansible] (https://ntadesse.github.io/profile/projects/arch/Build_Staging_and_Production_CICD_Pipeline_Jenkins_with_Ansible.html)
+- ### Containerization Multi-tier and Micro-service Application Using Docker
+[Containerization using Docker] (https://ntadesse.github.io/profile/projects/arch/Containerizing_Deploying_Web_Application_Stack.html)
 - ### Deployment of Java Stack Multi-tier Application Using Kubernetes Cluster on AWS
 [Kubernetes Cluster] (https://ntadesse.github.io/profile/projects/arch/Project9.html)
-- ### Build GitOps Workflow Using GitHub Actions on GitHub
-[GitOps] (https://ntadesse.github.io/profile/projects/arch/Project11.html)
+- ### Build Staging and Production CICD Pipeline for Container using Jenkins with Kubernetes Cluster
+[Kubernetes Cluster] (https://ntadesse.github.io/profile/projects/arch/Build_CD_Pipeline_&_Deploy_to_Kubernetes_Cluster.html)
+- ### Build GitOps Workflow using GitHub Actions
+[GitOps] (https://ntadesse.github.io/profile/projects/arch/GitHub_Actions_CICD_for_Java_Full_Stack_Web_Application.html)
+- ### Provisioning Infrastructure on ASW for Java Full Stack Application using Ansible
+[GitOps] (https://ntadesse.github.io/profile/projects/arch/Provisioning_Java_WebApplication_on_AWS_Cloud_Ansible.html)
 - ### Log Monitoring using Spulk and Security Defense in Wazuh
 [Log and SIEM] (https://ntadesse.github.io/profile/projects/arch/splunk.html)
 - ### 3 Tier Campus Network with IP Phone Configuration
