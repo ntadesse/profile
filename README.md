@@ -2,9 +2,9 @@
 ## Certification
 - Microsoft Certified: Azure Fundamentals <br> [Verify] (https://www.credly.com/badges/bcb1823f-432c-451c-8037-d573e5cb2e68)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals <br>[Verify] (https://www.credly.com/badges/a917ea96-b531-48b2-8197-946790bc762f)
-- Udemy Certificate of Completion: VMware vSphere Mastery: Build and Manage Virtualized Infrastructure Course <be> [Verify] (https://udemy.com/certificate/UC-cc747b1b-ea9a-4e7d-9cb9-efe3c38ff681/) 
-- Udemy Certificate of Completion: DevOps Beginners to Advanced with Projects – 2023 <br> [Verify] (https://udemy.com/certificate/UC-cdc893f6-5492-4718-8805-f23d1097d63f/)
+- Udemy Certificate of Completion: DevOps Beginners to Advanced with Projects – 2023 <br> [Verify] (https://udemy.com/certificate/UC-cdc893f6-5492-4718-8805-f23d1097d63f)
 - Udemy Certificate of Completion: CompTIA Linux+  (XK0-005) Complete Course and Exams The Ultimate Hands-on Courses <br> [Verify] (https://ude.my/UC-461cd3bf-b5db-48f3-9fa2-e93aebfec199)
+- Udemy Certificate of Completion: OpenStack and NFV (Telco Cloud) <br> [Verify] ([https://ude.my/UC-649bb993-1974-4fe1-9914-a81257b88c69](https://www.udemy.com/certificate/UC-a8d3d124-41f1-49a6-ae36-4aa224ea0cde)
 - Udemy Certificate of Completion: Windows Server 2019 Administration Course <br> [Verify] (https://ude.my/UC-649bb993-1974-4fe1-9914-a81257b88c69)
 - Udemy Certificate of Completion: Complete Cisco CCNA 200-301 Course <br> [Verify] (https://ude.my/UC-9b6aaa24-cbcc-4a7b-8490-cd2523109373)
 
